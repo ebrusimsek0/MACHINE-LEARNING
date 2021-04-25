@@ -1,6 +1,6 @@
 # MACHINE-LEARNING
-0)import packages
-1)Data Load
+0)import packages\n
+1)Data Load\n
 2)Data to dataframe
 3)Explotary data analysis
 -data.info() (discrete/continuous/ categorical/numerical)
